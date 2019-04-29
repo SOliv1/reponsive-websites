@@ -1,4 +1,4 @@
-#Introduction to Responsive websites
+Introduction to Responsive websites
 
 This is a responsive web-design basic layout.  
 We are introduced to a webdesign where the layout responds to every device.
